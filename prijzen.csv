@@ -1,40 +1,101 @@
-merk;model;kleur;prijs_excl_rijklaar;prijs_incl_rijklaar;kleur_bron;url
-Peugeot;Speedfight 4 E5 45 km/h;Iced Grey;3098;3348;tekst;https://www.joskerkhof.nl/product/peugeot-speedfight-4-e5-45km-h/
-Peugeot;Speedfight 4 E5 45 km/h;Mad Black;3298;3548;tekst;https://www.joskerkhof.nl/product/peugeot-speedfight-4-e5-45km-h/
-Peugeot;Kisbee Special E5 25/45 km/h;Adventure Green;2498;2748;tekst;https://www.joskerkhof.nl/product/peugeot-kisbee-special-e5-25km-h-en-45km-h/
-Peugeot;Kisbee Special E5 25/45 km/h;Black;2498;2748;tekst;https://www.joskerkhof.nl/product/peugeot-kisbee-special-e5-25km-h-en-45km-h/
-SYM;Jet 4 RX 25/45 km/h;Blue/Black;2248;2498;tekst;https://www.joskerkhof.nl/product/sym-jet-4-rx-25km-h-en-45km-h/
-SYM;Jet 4 RX 25/45 km/h;Black;2248;2498;tekst;https://www.joskerkhof.nl/product/sym-jet-4-rx-25km-h-en-45km-h/
-SYM;Symphony ST 25/45 km/h;Blauw;2898;3148;foto;https://www.joskerkhof.nl/product/sym-symphony-st-25km-h-en-45km-h/
-SYM;Symphony ST 25/45 km/h;Grijs;2898;3148;foto;https://www.joskerkhof.nl/product/sym-symphony-st-25km-h-en-45km-h/
-SYM;Orbit III (Euro 5);Tech Black;2048;2298;tekst;https://www.joskerkhof.nl/product/orbit-iii-euro-5/
-SYM;Orbit III (Euro 5);Cerulean Blue;2048;2298;tekst;https://www.joskerkhof.nl/product/orbit-iii-euro-5/
-SYM;Orbit III (Euro 5);Stealth Grey;2048;2298;tekst;https://www.joskerkhof.nl/product/orbit-iii-euro-5/
-SYM;Fiddle II (Euro 5);Bronze Grey;2148;2398;tekst;https://www.joskerkhof.nl/product/fiddle-ii-euro-5/
-SYM;Fiddle II (Euro 5);Black;2148;2398;tekst;https://www.joskerkhof.nl/product/fiddle-ii-euro-5/
-SYM;Fiddle II (Euro 5);Lake Blue;2148;2398;tekst;https://www.joskerkhof.nl/product/fiddle-ii-euro-5/
-SYM;Fiddle II (Euro 5);Misty Green;2148;2398;tekst;https://www.joskerkhof.nl/product/fiddle-ii-euro-5/
-SYM;Fiddle IV (Euro 5);Matt Black;2498;2748;foto;https://www.joskerkhof.nl/product/fiddle-iv-euro-5/
-SYM;Fiddle IV (Euro 5);Matt Indigo;2498;2748;foto;https://www.joskerkhof.nl/product/fiddle-iv-euro-5/
-SYM;Jet14 (Euro 5);Matt Black;2748;2998;tekst;https://www.joskerkhof.nl/product/jet14-euro-5/
-SYM;Jet14 (Euro 5);Satin Submarin Blue;2748;2998;tekst;https://www.joskerkhof.nl/product/jet14-euro-5/
-SYM;Jet14 (Euro 5);Mamba Green;2748;2998;tekst;https://www.joskerkhof.nl/product/jet14-euro-5/
-SYM;Mio 50i (Euro 5);Zwart;2398;2648;foto;https://www.joskerkhof.nl/product/mio-50i-euro-5/
-SYM;X-Pro bezorgscooter (Euro 5);Wit;2399;2649;tekst+foto;https://www.joskerkhof.nl/product/x-pro-bezorgscooter-euro-5/
-SYM;X-Pro bezorgscooter (Euro 5);Zwart;2399;2649;tekst+foto;https://www.joskerkhof.nl/product/x-pro-bezorgscooter-euro-5/
-SYM;Cruisym 300;Matt Black;6448;6698;tekst;https://www.joskerkhof.nl/product/cruissym-300/
-SYM;Cruisym 300;Red;6448;6698;tekst;https://www.joskerkhof.nl/product/cruissym-300/
-Yadea;G5 25/45 km/h;Blauw;2148;2398;foto;https://www.joskerkhof.nl/product/yadea-g5-25-km-h-en-45-km-h/
-Yadea;G5 25/45 km/h;Zwart;2148;2398;foto;https://www.joskerkhof.nl/product/yadea-g5-25-km-h-en-45-km-h/
-Yadea;G5 25/45 km/h;Wit;2148;2398;foto;https://www.joskerkhof.nl/product/yadea-g5-25-km-h-en-45-km-h/
-Yadea;M6L 25/45 km/h;Matt Black;1798;2048;foto;https://www.joskerkhof.nl/product/yadea-m6l-25km-h/
-Yadea;M6L 25/45 km/h;Grijs;1798;2048;foto;https://www.joskerkhof.nl/product/yadea-m6l-25km-h/
-Yadea;E8S Lite 25 km/h;Zilver/Grijs;1698;1948;foto;https://www.joskerkhof.nl/product/yadea-e8s-lite/
-Yadea;E8S Lite 25 km/h;Blauw;1698;1948;foto;https://www.joskerkhof.nl/product/yadea-e8s-lite/
-Yadea;E8S Lite 45 km/h;Zilver/Grijs;1798;2048;foto;https://www.joskerkhof.nl/product/yadea-e8s-lite/
-Yadea;E8S Lite 45 km/h;Blauw;1798;2048;foto;https://www.joskerkhof.nl/product/yadea-e8s-lite/
-Yadea;C1S 45 km/h;Zwart;2398;2648;foto;https://www.joskerkhof.nl/product/yadea-c1s-45km-h/
-Yadea;C1S 45 km/h;Grijs;2398;2648;foto;https://www.joskerkhof.nl/product/yadea-c1s-45km-h/
-Yadea;T9L 45 km/h;Titanium Grey;2048;2298;foto;https://www.joskerkhof.nl/product/yadea-t9l-45km-h/
-Yadea;Y1S 45 km/h;Zwart;3648;3898;foto;https://www.joskerkhof.nl/product/yadea-y1s-45km-h/
-Yadea;Y1S 45 km/h;Wit;3648;3898;foto;https://www.joskerkhof.nl/product/yadea-y1s-45km-h/
+merk;model;kleur;prijs_excl_rijklaar;prijs_incl_rijklaar;artikelnummer;omschrijving;levering
+Peugeot;KISBEE S 25 KM/H E5+;River Blue;2249,00;2499,00;KSB25-M5Z1;KISBEE 50 25KM/H M5 E5+ RIVER BLUE;Week 42 leverbaar
+Peugeot;KISBEE S 25 KM/H E5+;Pearly Black;2249,00;2499,00;KSB25-M6NK;KISBEE S M6 E5+ 25 KM/H PEARLY BLACK(NK);Stock
+Peugeot;KISBEE S SPECIAL 25 KM/H E5+;Pearly Black (Black Edition);2349,00;2599,00;KSBBE25-M5H6;KISBEE 50 BLACK EDITION 25KM/H M5 E5+ PEARLY BLACK;Week 42 leverbaar
+Peugeot;KISBEE S SPECIAL 25 KM/H E5+;Adventure Green (Shadow);2349,00;2599,00;KSBSH25-M5V9;KISBEE 50 SHADOW 25KM/H M5 E5+ ADVENTURE GREEN;Week 42 leverbaar
+Peugeot;KISBEE S SPECIAL 25 KM/H E5+;Meteor Grey (Sport);2349,00;2599,00;KSBSP25-M5W9;KISBEE SPORT M5 E5+ 25 KM/H METEOR GREY;Week 42 leverbaar
+Peugeot;KISBEE 45 KM/H E5+;Pearly Black;2249,00;2499,00;KSB-M5NK;KISBEE 50 45KM/H M5 E5+ PEARLY BLACK;Beperkte stock
+Peugeot;KISBEE 45 KM/H E5+;River Blue;2249,00;2499,00;KSB-M5Z1;KISBEE 50 45KM/H M5 E5+ RIVER BLUE;Week 42 leverbaar
+Peugeot;KISBEE SPECIALS 45 KM/H E5+;Mad Black (Black Edition);2349,00;2599,00;KSBBE-M5H6;KISBEE 50 BLACK EDITION 45KM/H M5 E5+ MAD BLACK;Beperkte stock
+Peugeot;KISBEE SPECIALS 45 KM/H E5+;Adventure Green (Shadow);2349,00;2599,00;KSBSH-M5V9;KISBEE 50 SHADOW 45KM/H M5 E5+ ADVENTURE GREEN;Stock
+Peugeot;KISBEE SPECIALS 45 KM/H E5+;Meteor Grey (Sport);2349,00;2599,00;KSBSP-M5W9;KISBEE SPORT M5 E5+ 45 KM/H METEOR GREY;Stock
+Peugeot;SPEEDFIGHT 4 45 KM/H E5+;Pearly Black/Mad Black;3299,00;3549,00;FIG4SL-M5H6;SPEEDFIGHT 50 45KM/H M5 E5+ PEARLY BLACK/MAD BLACK;Stock
+Peugeot;SPEEDFIGHT 4 45 KM/H E5+;Y2 (kleurcode, naam niet vermeld);3299,00;3549,00;FIG4SL-M5Y2;SPEEDFIGHT4 M5 E5+ 45 KM/H (Y2);Week 42 leverbaar
+SYM;FIDDLE II 25 KM/H E5+;Mat Black;1899,00;2149,00;FI25-M5BK007U;FIDDLE II 25KM E5P MAT BLACK (BK007U);Week 42 leverbaar
+SYM;FIDDLE II 25 KM/H E5+;Black;1899,00;2149,00;FI25-M5BK5560S;FIDDLE II 25KM E5P BLACK (BK5560S);Week 44 leverbaar
+SYM;FIDDLE II 25 KM/H E5+;Blue;1899,00;2149,00;FI25-M5BU283U;FIDDLE II 25KM E5P BLUE (BU283U);Week 42 leverbaar
+SYM;FIDDLE II 25 KM/H E5+;Bronze Grey;1899,00;2149,00;FI25-M5GY446S;FIDDLE II 25KM E5P BRONZE GREY (GY446S);Week 44 leverbaar
+SYM;FIDDLE IV 25 KM/H E5+;Black Gloss;2449,00;2699,00;FIV25-M5BK5560S;FIDDLE IV E5+ 25 KM/H BLACK GLOSS;Stock
+SYM;FIDDLE IV 25 KM/H E5+;Mamba Green;2449,00;2699,00;FIV25-M5GNR5605U;FIDDLE IV E5+ 25 KM/H MAMBA GREEN;Beperkte stock
+SYM;FIDDLE IV 25 KM/H E5+;Bronze Grey;2449,00;2699,00;FIV25-M5GY446S;FIDDLE IV E5+ 25 KM/H BRONZE GREY;Beperkte stock
+SYM;JET 14 25 KM/H E5+;Black Gloss;2599,00;2849,00;J1425-M5BK5560S;JET 14 M5 E5+ 25 KM/H BLACK GLOSS;Week 44 leverbaar
+SYM;JET 14 25 KM/H E5+;Mamba Green;2599,00;2849,00;J1425-M5GNR5605U;JET 14 M5 E5+ 25 KM/H MAMBA GREEN;Week 45 leverbaar
+SYM;JET 14 25 KM/H E5+;Bronze Grey;2599,00;2849,00;J1425-M5GY446S;JET 14 M5 E5+ 25 KM/H BRONZE GREY;Week 45 leverbaar
+SYM;ORBIT III 25 KM/H E5+;Tech Black;1849,00;2099,00;ORIII25-M5BK007U;ORBIT III M5 E5+ 25 KM/H TECH BLACK;Week 44 leverbaar
+SYM;ORBIT III 25 KM/H E5+;Bronze Grey;1849,00;2099,00;ORIII25-M5GY446S;ORBIT III M5 E5+ 25 KM/H BRONZE GREY;Week 44 leverbaar
+SYM;ORBIT III 25 KM/H E5+;Night Purple;1849,00;2099,00;ORIII25-M5PGN5477S;ORBIT III M5 E5+ 25 KM/H NIGHT PURPLE;Week 42 leverbaar
+SYM;SYMPHONY 25 KM/H E5+;Mat Black;2499,00;2749,00;SY25-M6BK007U;SYMPHONY M6 E5+ 25 KM/H MAT BLACK;Beperkte stock
+SYM;SYMPHONY 25 KM/H E5+;Space Grey;2499,00;2749,00;SY25-M6BK2593U;SYMPHONY M6 E5+ 25 KM/H SPACE GREY;Stock
+SYM;SYMPHONY 25 KM/H E5+;Mamba Green;2499,00;2749,00;SY25-M6GNR5605U;SYMPHONY M6 E5+ 25 KM/H MAMBA GREEN;Week 39 leverbaar
+SYM;XPRO 25 KM/H E5+;Black;2449,00;2699,00;XPR25-M5BK001C;X-PRO 25 KM/H M5 E5P BLACK (BK001C);Week 44 leverbaar
+SYM;XPRO 25 KM/H E5+;White;2449,00;2699,00;XPR25-M5WH8018P;X-PRO 25 KM/H M5 E5P WHITE (WH8018P);Week 44 leverbaar
+SYM;J4RX 25 KM/H E5+;Mat Black;2299,00;2549,00;J4RX25-M5BK007U-BK00;JET 4 RX E5+ 25KM/H MAT BLACK;Stock
+SYM;J4RX 25 KM/H E5+;Bronze Grey;2299,00;2549,00;J4RX25-M5GY446S-BK00;JET 4 RX E5+ 25KM/H BRONZE GREY;Stock
+SYM;J4RX 25 KM/H E5+;Night Purple/Black;2299,00;2549,00;J4RX25-M5PGN5477S-BK;JET 4 RX E5+ 25KM/H NIGHT PURPLE/BLA;Week 39 leverbaar
+SYM;J4RX 45 KM/H E5+;Mat Black;2299,00;2549,00;J4RX-M5BK007U-BK001C;JET 4 RX M5 E5+ 45 MAT BLACK;Stock
+SYM;J4RX 45 KM/H E5+;Bronze Grey;2299,00;2549,00;J4RX-M5GY446S-BK001C;JET 4 RX M5 E5+ 45 BRONZE GREY;Stock
+SYM;J4RX 45 KM/H E5+;Night Purple/Black;2299,00;2549,00;J4RX-M5PGN5477S-BK00;JET 4 RX M5 E5+ 45 KM/H NIGHT PURPLE BL;Week 39 leverbaar
+SYM;FIDDLE II 45 KM/H E5+;Tech Black;1899,00;2149,00;FI-M5BK007U;FIDDLE II M5 E5+ 45KM TECH BLACK;Week 44 leverbaar
+SYM;FIDDLE II 45 KM/H E5+;Black;1899,00;2149,00;FI-M5BK5560S;FIDDLE II 45KM E5P BLACK (BK5560S);Week 42 leverbaar
+SYM;FIDDLE II 45 KM/H E5+;Blue;1899,00;2149,00;FI-M5BU283U;FIDDLE II M5 E5+ 45KM BLUE (BU283U);Week 42 leverbaar
+SYM;FIDDLE II 45 KM/H E5+;Bronze Grey;1899,00;2149,00;FI-M5GY446S;FIDDLE II 45KM E5P BRONZE GREY (GY446S);Week 44 leverbaar
+SYM;FIDDLE IV 45 KM/H E5+;Black Gloss;2449,00;2699,00;FIV-M5BK5560S;FIDDLE IV 50 E5+ 45 KM/H BLACK GLOSS;Stock
+SYM;FIDDLE IV 45 KM/H E5+;Mamba Green;2449,00;2699,00;FIV-M5GNR5605U;FIDDLE IV 50 E5+ 45 KM/H MAMBA GREEN;Week 44 leverbaar
+SYM;FIDDLE IV 45 KM/H E5+;Bronze Grey;2449,00;2699,00;FIV-M5GY446S;FIDDLE IV 50 E5+ 45 KM/H BRONZE GREY;Week 44 leverbaar
+SYM;MIO 50I 45 KM/H E5+;Matt Indigo;2349,00;2599,00;MIO-M5BUP275U-BK001C;MIO 50I M5 E5+ 45 KM/H MATT INDIGO;Week 39 leverbaar
+SYM;MIO 50I 45 KM/H E5+;Bronze Grey;2349,00;2599,00;MIO-M5GY446S-BK001C;MIO 50I M5 E5+ 45 KM/H BRONZE GREY;Week 39 leverbaar
+SYM;JET 14 45 KM/H E5+;Black Gloss;2599,00;2849,00;J14-M5BK5560S;JET 14 M5 E5+ BLACK GLOSS;Week 39 leverbaar
+SYM;JET 14 45 KM/H E5+;Mamba Green;2599,00;2849,00;J14-M5GNR5605U;JET 14 45KM E5P 45 MAMBA GREEN(GNR5605U);Week 39 leverbaar
+SYM;JET 14 45 KM/H E5+;Bronze Grey;2599,00;2849,00;J14-M5GY446S;JET 14 M5 E5+ 45 KM/H BRONZE GREY;Week 39 leverbaar
+SYM;ORBIT III 45 KM/H E5+;Tech Black;1849,00;2099,00;ORIII-M5BK007U;ORBIT III M5 E5+ 45 KM TECH BLACK;Week 39 leverbaar
+SYM;ORBIT III 45 KM/H E5+;Bronze Grey;1849,00;2099,00;ORIII-M5GY446S;ORBIT III M5 E5+ 45 KM/H BRONZE GREY;Week 39 leverbaar
+SYM;ORBIT III 45 KM/H E5+;Night Purple;1849,00;2099,00;ORIII-M5PGN5477S;ORBIT III M5 E5+ 45 KM NIGHT PURPLE;Week 44 leverbaar
+SYM;SYMPHONY 45 KM/H E5+;Mat Black;2499,00;2749,00;SY-M6BK007U;SYMPHONY M6 E5+ 45 KM/H MAT BLACK;Week 39 leverbaar
+SYM;SYMPHONY 45 KM/H E5+;Space Grey;2499,00;2749,00;SY-M6BK2593U;SYMPHONY M6 E5+ 45 KM/H SPACE GREY;Stock
+SYM;SYMPHONY 45 KM/H E5+;Mamba Green;2499,00;2749,00;SY-M6GNR5605U;SYMPHONY M6 E5+ 45 KM/H MAMBA GREEN;Week 39 leverbaar
+SYM;XPRO 45 KM/H E5+;Black;2449,00;2699,00;XPR-M5BK001C;X-PRO 45 KM/H M5 E5P BLACK (BK001C);Week 44 leverbaar
+SYM;XPRO 45 KM/H E5+;Icy White;2449,00;2699,00;XPR-M5WH8018P;X-PRO 45KM/H  M5 E5P ICY WHITE (WH8018P);Beperkte stock
+SYM;FUGUE 125 AC ABS E5+;Black/Silver;3100,00;3350,00;FUG12A-M4BK502C-S352;FUGUE125 AC ABS E5+ BLC/SIL(BK502C-S352U;Stock
+SYM;FUGUE 125 AC ABS E5+;Black/Grey;3100,00;3350,00;FUG12A-M4GY218-BK502;FUGUE 125 AC ABS E5+ BLC/GREY(GY218-BK);Stock
+SYM;ECHS 125 ABS+TCS;Mat/Flash Black;2200,00;2450,00;ECHS12A-M6BK447U-BK5;ECHS 125 ABS+TCS M6 MAT/FLASH BLACK;Week 45 leverbaar
+SYM;ECHS 125 ABS+TCS;Cyan Green/Mat Black;2200,00;2450,00;ECHS12A-M6GN553U-BK4;ECHS 125 ABS+TCS M6 CYAN GREEN/MAT BLA;Week 45 leverbaar
+SYM;JET 14 125 AC E5+ EVO;Matt Black;3000,40;3250,40;J14E12-M4BK007U;JET 14 125 AC CBS M4 E5+ EVO MATT BLACK;Stock
+SYM;JET 14 125 AC E5+ EVO;Space Grey;3000,40;3250,40;J14E12-M4BK2593U;JET 14 125 AC CBS M4 E5+ EVO SPACE GREY;Beperkte stock
+SYM;JET 14 125 AC E5+ EVO;Slate Blue;3000,40;3250,40;J14E12-M4GY7547UL;JET 14 125 AC CBS M4 E5+ EVO SLATE BLUE;Beperkte stock
+SYM;JET X 125 E5;Mat Black;3700,00;3950,00;JETX12-M5BK315U;JET X 125 LC ABS/TCSE5+ MAT BLCK(BK315U);Stock
+SYM;JET X 125 E5;Grey;3700,00;3950,00;JETX12-M5GY218;JET X 125 LC ABS/TCS E5+ GREY (GY218);Beperkte stock
+SYM;JET X 125 E5;White;3700,00;3950,00;JETX12-M5WH057P;JET X 125 LC ABS/TCS E5+ WHITE (WH057P);Stock
+SYM;ADX 125 E5+;Black;4199,60;4449,60;ADX12-M5BK001C;ADX M5 125 E5+ BLACK;Tijdelijk niet op stock
+SYM;ADX 125 E5+;Nardo Grey;4199,60;4449,60;ADX12-M5GY008C;ADX 125 E5P NARDO GREY;Week 44 leverbaar
+SYM;CRUISYM ALPHA 125 E5;Velvet Black;5499,00;5749,00;CRU12-M4BK532U;CRUISYM A.125 E5+ ABS-TCS VELVET BLACK;Tijdelijk niet op stock
+SYM;CRUISYM ALPHA 125 E5;Rock Ash;5499,00;5749,00;CRU12-M4GY009C;CRUISYM ALPH.E5+ ABS-TCS ROCK ASH GY009C;Tijdelijk niet op stock
+SYM;ADX 300 E5+;Space Grey;5700,00;5950,00;ADX30-M4BK2593U;ADX300 E5+ SPACE GREY (BK2593U);Beperkte stock
+SYM;ADX 300 E5+;Blue/Submarine Grey;5700,00;5950,00;ADX30-M4GY7547UL;ADX300 E5+ BLUE/SUBMAR. GREY (GY7547UL);Beperkte stock
+SYM;CRUISYM ALPHA 300 E5+;Velvet Black;6300,00;6550,00;CRU30-M4BK532U;CRUISYM A.300 E5+TCS KEYLS VELVET BLACK;Week 42 leverbaar
+SYM;CRUISYM ALPHA 300 E5+;Rock Ash;6300,00;6550,00;CRU30-M4GY009C;CRUISYM ALP.300 E5+ TCS KEYLESS ROCK ASH;Beperkte stock
+SYM;CRUISYM 400 E5+;Space Grey;6700,00;6950,00;CRU40-M6BK2593U-GY74;CRUISYM 400 ABS M6 E5+ SPACE GREY;Week 44 leverbaar
+SYM;CRUISYM 400 E5+;Discoloration Green;6700,00;6950,00;CRU40-M6GNR5605U-GY7;CRUISYM 400 ABS M6 E5+ DISCOLORATION GREEN;Week 44 leverbaar
+SYM;ADXTG 400 E5+;Rock Ash;7700,00;7950,00;ADXTG40-M5GY009C;ADX TG 400 M5 E5+ ROCK ASH (GY-009C);Stock
+SYM;ADXTG 400 E5+;Anthracite Grey;7700,00;7950,00;ADXTG40-M5GY7450U;ADX TG 400 M5 E5+ ANTHRACITE GREY;Stock
+SYM;ADXTG 400 E5+;White;7700,00;7950,00;ADXTG40-M5WH006U;ADX TG 400 M5 E5+ WHITE (WH006U);Stock
+SYM;MAXSYM TL508 E5+;Mat Black;10699,00;10949,00;MAXTL50-M5BK001ULC;MAXSYM TL508 TCS M5 E5+ MAT BLACK;Beperkte stock
+SYM;MAXSYM TL508 E5+;Nardo Grey;10699,00;10949,00;MAXTL50-M5GY009C;MAXSYM TL508 TCS M5 E5+ NARDO GREY;Beperkte stock
+SYM;TTL BT 508;Velvet Black;12200,00;12450,00;TTLBT50-M6BK532U;TTL BT 508 CC VELVET BLACK (BK532U);Stock
+SYM;TTL BT 508;White;12200,00;12450,00;TTLBT50-M6WH006U;TTL BT 508 CC WHITE (WH006U);Beperkte stock
+Yadea;OWIN 25 KM/H;Silky Red;1899,00;2149,00;OWIN25-M5-001;OWIN 25 KM/H M5 SILKY RED;Tijdelijk niet op stock
+Yadea;OWIN 25 KM/H;Shiney Black;1899,00;2149,00;OWIN25-M5-501;OWIN 25 KM/H M5 SHINEY BLACK (501);Stock
+Yadea;OWIN 25 KM/H;Desert Grey;1899,00;2149,00;OWIN25-M5-602;OWIN 25 KM/H M5 DESERT GREY (602);Stock
+Yadea;E8S 25 KM/H;Blue;1659,00;1909,00;E8S25-M3-403;E8S LITE 25 KM/H BLUE (403);Stock
+Yadea;E8S 25 KM/H;Black;1659,00;1909,00;E8S25-M3-514;E8S LITE 25 KM/H BLACK (514);Beperkte stock
+Yadea;E8S 25 KM/H;Grey;1659,00;1909,00;E8S25-M3-604;E8S LITE 25 KM/H GREY (604);Stock
+Yadea;OWIN 45 KM/H;Silky Red;1899,00;2149,00;OWIN-M5-001;OWIN 45 KM/H M5 SILKY RED (001);Beperkte stock
+Yadea;OWIN 45 KM/H;Shiney Black;1899,00;2149,00;OWIN-M5-501;OWIN 45 KM/H M5 SHINEY BLACK (501);Stock
+Yadea;OWIN 45 KM/H;Desert Grey;1899,00;2149,00;OWIN-M5-602;OWIN 45KM/H 1BATT M5 DESERT GREY;Stock
+Yadea;E10 45 KM/H;Dark Black;1699,00;1949,00;E10-M5-DARKBLACK;E10 M5 45 KM/H DARK BLACK;Stock
+Yadea;VOLTGUARD 45 KM/H;Black;1999,00;2249,00;VOLTG-M4-BLACK;VOLT GUARD 45 KM/H BLACK;Tijdelijk niet op stock
+Yadea;VOLTGUARD 45 KM/H;Blue;1999,00;2249,00;VOLTG-M4-BLUE;VOLT GUARD 45 KM/H BLUE;Stock
+Yadea;Y1SH 45 KM/H;Black;2100,00;2350,00;Y1SH-M7-501;Y1S H 45KM/H 1BATT M7 BLACK;Tijdelijk niet op stock
+Yadea;Y1SH 45 KM/H;White;2100,00;2350,00;Y1SH-M7-801;Y1S H 45KM/H 1BATT M7 WHITE;Tijdelijk niet op stock
+Yadea;VELAX 45 KM/H;Blue;2099,00;2349,00;VELAX-M6-401;VELAX 45 KM/H M6 BLUE;Tijdelijk niet op stock
+Yadea;VELAX 45 KM/H;Black;2099,00;2349,00;VELAX-M6-501;VELAX 45 KM/H M6 BLACK;Stock
+Yadea;M6L 45 KM/H;Solu Grey;1749,00;1999,00;M6L-M2-627;M6L 45KM/H 1BATT M2 SOLU GREY;Beperkte stock
